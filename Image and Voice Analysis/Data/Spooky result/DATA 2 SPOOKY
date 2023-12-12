@@ -1,0 +1,33 @@
+   From 0 to 0 seconds (duration: 1.592436 seconds)
+Pitch:
+   Median pitch: 84.883 Hz
+   Mean pitch: 86.699 Hz
+   Standard deviation: 9.122 Hz
+   Minimum pitch: 75.407 Hz
+   Maximum pitch: 122.131 Hz
+Pulses:
+   Number of pulses: 52
+   Number of periods: 28
+   Mean period: 11.597130E-3 seconds
+   Standard deviation of period: 1.288628E-3 seconds
+Voicing:
+   Fraction of locally unvoiced frames: 51.064%   (240 / 470)
+   Number of voice breaks: 14
+   Degree of voice breaks: 71.182%   (1.133527 seconds / 1.592436 seconds)
+Jitter:
+   Jitter (local): 9.677%
+   Jitter (local, absolute): 1122.229E-6 seconds
+   Jitter (rap): 4.692%
+   Jitter (ppq5): 8.084%
+   Jitter (ddp): 14.076%
+Shimmer:
+   Shimmer (local): 17.626%
+   Shimmer (local, dB): 1.218 dB
+   Shimmer (apq3): --undefined--
+   Shimmer (apq5): --undefined--
+   Shimmer (apq11): --undefined--
+   Shimmer (dda): --undefined--
+Harmonicity of the voiced parts only:
+   Mean autocorrelation: 0.711895
+   Mean noise-to-harmonics ratio: 0.482427
+   Mean harmonics-to-noise ratio: 4.359 dB

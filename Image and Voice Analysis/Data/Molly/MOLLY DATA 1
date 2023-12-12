@@ -1,0 +1,33 @@
+Object type: Pitch
+Object name: MOLLY_CUT
+Date: Sat Jun 11 00:20:04 2022
+
+Time domain:
+   Start time: 0 seconds
+   End time: 1.2772934494493988 seconds
+   Total duration: 1.2772934494493988 seconds
+Time sampling:
+   Number of frames: 124 (54 voiced)
+   Time step: 0.01 seconds
+   First frame centred at: 0.02364662591211852 seconds
+Ceiling at: 600 Hz
+
+Estimated quantiles:
+   10% = 88.9289891 Hz = 82.431273 Mel = -2.0312917 semitones above 100 Hz = 2.71543372 ERB
+   16% = 94.4765603 Hz = 87.1860961 Mel = -0.98365986 semitones above 100 Hz = 2.86473623 ERB
+   50% = 105.574714 Hz = 96.5766993 Mel = 0.939172066 semitones above 100 Hz = 3.15723754 ERB
+   84% = 108.898343 Hz = 99.3580419 Mel = 1.47578407 semitones above 100 Hz = 3.24328108 ERB
+   90% = 109.950969 Hz = 100.235996 Mel = 1.64232383 semitones above 100 Hz = 3.27038627 ERB
+Estimated spreading:
+   84%-median = 3.355 Hz = 2.807 Mel = 0.5417 semitones = 0.08685 ERB
+   median-16% = 11.2 Hz = 9.479 Mel = 1.941 semitones = 0.2952 ERB
+   90%-10% = 21.22 Hz = 17.97 Mel = 3.708 semitones = 0.5602 ERB
+
+Minimum 76.2473785 Hz = 71.4049535 Mel = -4.69488429 semitones above 100 Hz = 2.36600731 ERB
+Maximum 123.367304 Hz = 111.304971 Mel = 3.63552107 semitones above 100 Hz = 3.60988969 ERB
+Range 47.12 Hz = 39.9000171 Mel = 8.33 semitones = 1.244 ERB
+Average: 102.90734 Hz = 94.2798658 Mel = 0.421927301 semitones above 100 Hz = 3.08491785 ERB
+Standard deviation: 9.223 Hz = 7.834 Mel = 1.654 semitones = 0.2447 ERB
+
+Mean absolute slope: 411.3 Hz/s = 348.4 Mel/s = 72.25 semitones/s = 10.86 ERB/s
+Mean absolute slope without octave jumps: 72.25 semitones/s

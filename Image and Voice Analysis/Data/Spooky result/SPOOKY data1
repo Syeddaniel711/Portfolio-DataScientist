@@ -1,0 +1,33 @@
+Object type: Pitch
+Object name: SPOOKY
+Date: Fri Jun 10 23:58:40 2022
+
+Time domain:
+   Start time: 0 seconds
+   End time: 1.592435759720352 seconds
+   Total duration: 1.592435759720352 seconds
+Time sampling:
+   Number of frames: 156 (20 voiced)
+   Time step: 0.01 seconds
+   First frame centred at: 0.021221919050572243 seconds
+Ceiling at: 600 Hz
+
+Estimated quantiles:
+   10% = 77.2135067 Hz = 72.252799 Mel = -4.47689831 semitones above 100 Hz = 2.39303729 ERB
+   16% = 77.657647 Hz = 72.6421253 Mel = -4.3776012 semitones above 100 Hz = 2.40544019 ERB
+   50% = 84.7936552 Hz = 78.8599435 Mel = -2.85566133 semitones above 100 Hz = 2.60275188 ERB
+   84% = 92.1228323 Hz = 85.1737341 Mel = -1.42043193 semitones above 100 Hz = 2.80164729 ERB
+   90% = 97.5555477 Hz = 89.8074648 Mel = -0.428450141 semitones above 100 Hz = 2.94670057 ERB
+Estimated spreading:
+   84%-median = 7.52 Hz = 6.478 Mel = 1.473 semitones = 0.2041 ERB
+   median-16% = 7.321 Hz = 6.379 Mel = 1.561 semitones = 0.2024 ERB
+   90%-10% = 20.87 Hz = 18.01 Mel = 4.154 semitones = 0.568 ERB
+
+Minimum 76.6915595 Hz = 71.7949159 Mel = -4.59432347 semitones above 100 Hz = 2.378443 ERB
+Maximum 103.443049 Hz = 94.7854069 Mel = 0.586040468 semitones above 100 Hz = 3.10168061 ERB
+Range 26.75 Hz = 22.9904911 Mel = 5.18 semitones = 0.7232 ERB
+Average: 85.8192601 Hz = 79.7092921 Mel = -2.71175358 semitones above 100 Hz = 2.62882011 ERB
+Standard deviation: 7.75 Hz = 6.669 Mel = 1.514 semitones = 0.21 ERB
+
+Mean absolute slope: 74.78 Hz/s = 64.58 Mel/s = 14.97 semitones/s = 2.038 ERB/s
+Mean absolute slope without octave jumps: 14.97 semitones/s

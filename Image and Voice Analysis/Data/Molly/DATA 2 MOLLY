@@ -1,0 +1,30 @@
+Object type: PointProcess
+Object name: MOLLY_CUT_MOLLY_CUT_2__CC_
+Date: Fri Jun 10 23:24:22 2022
+
+Time domain:
+   Start time: 0 seconds
+   End time: 1.2772934494493988 seconds
+   Total duration: 1.2772934494493988 seconds
+Number of times: 69
+First time: 0.0058283338904160376 seconds
+Last time: 1.2125023716671055 seconds
+Periods between 0.1 ms and 20 ms (pitch between 50 and 10000 Hz),
+with a maximum "period factor" of 1.3:
+   Number of periods: 58
+   Mean period: 0.009749110369812242 seconds
+   Stdev period: 0.0012163675643382548 seconds
+   Jitter (local): 10.804%
+   Jitter (local, absolute): 1053.247E-6 seconds
+   Jitter (rap): 5.473%
+   Jitter (ppq5): 5.928%
+   Jitter (ddp): 16.420%
+All periods:
+   Number of periods: 68
+   Mean period: 0.017745206437892493 seconds
+   Stdev period: 0.028140102995825315 seconds
+   Jitter (local): 96.241903%
+   Jitter (local, absolute): 17078.324438E-6 seconds
+   Jitter (rap): 61.724711%
+   Jitter (ppq5): 69.139133%
+   Jitter (ddp): 185.174133%
