@@ -1,0 +1,35 @@
+First detection of secondary supermassive black hole in a well-known binary system
+
+Supermassive black holes that weigh several billion times the mass of our Sun are present at the centres of active galaxies. Astronomers observe them as bright galactic cores where the galaxy's supermassive black hole devours matter from a violent whirlpool called accretion disk. Some of the matter is squeezed out into a powerful jet. This process makes the galactic core shine brightly across the entire electromagnetic spectrum.
+
+In a recent study, astronomers found evidence of two supermassive black holes circling each other through signals coming from the jets associated with the accretion of matter into both black holes. The galaxy, or a quasar as it is technically called, is named OJ287 and it is most thoroughly studied and best understood as a binary black hole system. In the sky, the black holes are so close together that they merge into one dot. The fact that the dot actually consists of two black holes becomes apparent by detecting that it emits two different types of signals.
+
+The active galaxy OJ 287 lies in the direction of the constellation Cancer at a distance of about 5 billion light years and has been observed by astronomers since 1888. Already more than 40 years ago, astronomer from University of Turku Aimo Sillanpää and his associates noticed that there is a prominent pattern in its emission which has two cycles, one of about 12 years and the longer of about 55 years. They suggested that the two cycles result from the orbital motion of two black holes around each other. The shorter cycle is the orbital cycle and the longer one results from a slow evolution of the orientation of the orbit.
+
+The orbital motion is revealed by a series of flares which arise when the secondary black hole plunges regularly through the accretion disk of the primary black hole at speeds that are a fraction slower than the speed of light. This plunging of the secondary black hole heats the disk material and the hot gas is released as expanding bubbles. These hot bubbles take months to cool while they radiate and cause a flash of light -- a flare -- that lasts roughly a fortnight and is brighter than a trillion stars.
+
+After decades of efforts at estimating the timing of the secondary black hole's plunge through the accretion disk, astronomers from the University of Turku in Finland led by Mauri Valtonen and his collaborator Achamveedu Gopakumar from the Tata Institute of Fundamental Research at Mumbai, India, and others were able to model the orbit and to predict accurately when these flares would occur.
+
+Successful observational campaigns in 1983, 1994, 1995, 2005, 2007, 2015 and 2019 allowed the team to observe the predicted flares and to confirm the presence of a supermassive black hole pair in OJ 287.
+
+"The total number of predicted flares now number 26, and nearly all of them have been observed. The bigger black hole in this pair weighs more than 18 billion times the mass of our Sun while the companion is roughly 100 times lighter and their orbit is oblong, not circular," Professor Achamveedu Gopakumar says.
+
+In spite of these efforts, astronomers had not been able to observe a direct signal from the smaller black hole. Before 2021, its existence had been deduced only indirectly from the flares and from the way it makes the jet of the bigger black hole wobble.
+
+"The two black holes are so close to each other in the sky that one cannot see them separately, they merge to a single point in our telescopes. Only if we see clearly separate signals from each black hole can we say that we have actually "seen" them both," says the lead author, Professor Mauri Valtonen.
+
+Smaller black hole directly observed for the first time
+
+Excitingly, the observational campaigns in 2021/2022 on OJ 287 using a large number of telescopes of various types allowed researchers to obtain observations of the secondary black hole plunging through the accretion disk for the first time, and the signals arising from the smaller black hole itself.
+
+"The period in 2021/2022 had a special significance in the study of OJ287. Earlier, it had been predicted that during this period the secondary black hole will plunge through the accretion disk of its more massive companion. This plunging was expected to produce a very blue flash right after the impact, and it was indeed observed, within days of the predicted time, by Martin Jelinek and associates at the Czech Technical University and Astronomical Institute of Czechia," says Professor Mauri Valtonen.
+
+However, there were two big surprises -- new types of flares which had not been detected before. The first of them was seen only by a detailed observation campaign by Staszek Zola from the Jagiellonian University of Cracow, Poland, and for a good reason. Zola and his team observed a big flare, producing 100 times more light than an entire galaxy, and it lasted only one day.
+
+"According to the estimates, the flare occurred shortly after the smaller black hole had received a massive dose of new gas to swallow during its plunge. It is the swallowing process that leads to the sudden brightening of OJ287. It is thought that this process has empowered the jet which shoots out from the smaller black hole of OJ 287. An event like this was predicted ten years ago, but has not been confirmed until now," Valtonen explains.
+
+The second unexpected signal came from gamma rays and it was observed by NASA's Fermi telescope. The biggest gamma ray flare in OJ287 for six years happened just when the smaller black hole plunged through the gas disk of the primary black hole. The jet of the smaller black hole interacts with the disk gas, and this interaction leads to the production of gamma rays. To confirm this idea, the researchers verified that a similar gamma ray flare had already taken place in 2013 when the small black hole fell through the gas disk last time, seen from the same viewing direction.
+
+"So what about the one-day burst, why have we not seen it before? OJ287 has been recorded in photographs since 1888 and has been intensively followed since 1970. It turns out that we have simply just had bad luck. Nobody observed OJ287 exactly on those nights when it did its one-night stunt. And without the intense monitoring by Zola's group, we would have missed it this time as well," Valtonen states.
+
+These efforts make OJ 287 the best candidate for a supermassive black hole pair that is sending gravitational waves in nano-hertz frequencies. Further, OJ 287 is being routinely monitored by both the Event Horizon Telescope (EHT) and the Global mm-VLBI Array (GMVA) consortia to probe for additional evidence for the presence of supermassive black hole pair at its centre and, in particular, to try to get the radio image of the secondary jet.

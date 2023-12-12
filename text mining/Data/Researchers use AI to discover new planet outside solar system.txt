@@ -1,0 +1,28 @@
+Researchers use AI to discover new planet outside solar system
+The exoplanet was detected using machine learning, a branch of artificial intelligence
+Date:
+April 24, 2023
+Source:
+University of Georgia
+Summary:
+A research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it. A recent study by the team showed that machine learning can correctly determine if an exoplanet is present by looking in protoplanetary disks, the gas around newly formed stars. The newly published findings represent a first step toward using machine learning to identify previously overlooked exoplanets.
+
+A University of Georgia research team has confirmed evidence of a previously unknown planet outside of our solar system, and they used machine learning tools to detect it.
+
+A recent study by the team showed that machine learning can correctly determine if an exoplanet is present by looking in protoplanetary disks, the gas around newly formed stars.
+
+The newly published findings represent a first step toward using machine learning to identify previously overlooked exoplanets.
+
+"We confirmed the planet using traditional techniques, but our models directed us to run those simulations and showed us exactly where the planet might be," said Jason Terry, doctoral student in the UGA Franklin College of Arts and Sciences department of physics and astronomy and lead author on the study.
+
+"When we applied our models to a set of older observations, they identified a disk that wasn't known to have a planet despite having already been analyzed. Like previous discoveries, we ran simulations of the disk and found that a planet could re-create the observation."
+
+According to Terry, the models suggested a planet's presence, indicated by several images that strongly highlighted a particular region of the disk that turned out to have the characteristic sign of a planet -- an unusual deviation in the velocity of the gas near the planet.
+
+"This is an incredibly exciting proof of concept. We knew from our previous work that we could use machine learning to find known forming exoplanets," said Cassandra Hall, assistant professor of computational astrophysics and principal investigator of the Exoplanet and Planet Formation Research Group at UGA. "Now, we know for sure that we can use it to make brand new discoveries."
+
+The discovery highlights how machine learning has the power to enhance scientists' work, utilizing artificial intelligence as an added tool to expand researchers' accuracy and more efficiently economize their time when engaged in such a vast endeavor as investigating deep, outer space.
+
+The models were able to detect a signal in data that people had already analyzed; they found something that previously had gone undetected.
+
+"This demonstrates that our models -- and machine learning in general -- have the ability to quickly and accurately identify important information that people can miss. This has the potential to dramatically speed up analysis and subsequent theoretical insights," Terry said. "It only took about an hour to analyze that entire catalog and find strong evidence for a new planet in a specific spot, so we think there will be an important place for these types of techniques as our datasets get even larger."

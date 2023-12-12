@@ -1,0 +1,17 @@
+Webb Telescope captures rarely seen prelude to supernova
+Date:
+March 14, 2023
+Source:
+NASA/Goddard Space Flight Center
+Summary:
+The rare sight of a Wolf-Rayet star -- among the most luminous, most massive, and most briefly detectable stars known -- was one of the first observations made by NASA's James Webb Space Telescope in June 2022. Webb shows the star, WR 124, in unprecedented detail with its powerful infrared instruments. The star is 15,000 light-years away in the constellation Sagittarius.
+
+Massive stars race through their lifecycles, and only some of them go through a brief Wolf-Rayet phase before going supernova, making Webb's detailed observations of this rare phase valuable to astronomers. Wolf-Rayet stars are in the process of casting off their outer layers, resulting in their characteristic halos of gas and dust. The star WR 124 is 30 times the mass of the Sun and has shed 10 Suns' worth of material -- so far. As the ejected gas moves away from the star and cools, cosmic dust forms and glows in the infrared light detectable by Webb.
+
+The origin of cosmic dust that can survive a supernova blast and contribute to the universe's overall "dust budget" is of great interest to astronomers for multiple reasons. Dust is integral to the workings of the universe: It shelters forming stars, gathers together to help form planets, and serves as a platform for molecules to form and clump together -- including the building blocks of life on Earth. Despite the many essential roles that dust plays, there is still more dust in the universe than astronomers' current dust-formation theories can explain. The universe is operating with a dust budget surplus.
+
+Webb opens up new possibilities for studying details in cosmic dust, which is best observed in infrared wavelengths of light. Webb's Near-Infrared Camera (NIRCam) balances the brightness of WR 124's stellar core and the knotty details in the fainter surrounding gas. The telescope's Mid-Infrared Instrument (MIRI) reveals the clumpy structure of the gas and dust nebula of the ejected material now surrounding the star. Before Webb, dust-loving astronomers simply did not have enough detailed information to explore questions of dust production in environments like WR 124, and whether the dust grains were large and bountiful enough to survive the supernova and become a significant contribution to the overall dust budget. Now those questions can be investigated with real data.
+
+Stars like WR 124 also serve as an analog to help astronomers understand a crucial period in the early history of the universe. Similar dying stars first seeded the young universe with heavy elements forged in their cores -- elements that are now common in the current era, including on Earth.
+
+Webb's detailed image of WR 124 preserves forever a brief, turbulent time of transformation, and promises future discoveries that will reveal the long-shrouded mysteries of cosmic dust.

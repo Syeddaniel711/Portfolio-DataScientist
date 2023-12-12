@@ -1,0 +1,31 @@
+Flaring star could be down to young planet's disc inferno
+Date:
+June 12, 2023
+Source:
+University of Leicester
+Summary:
+New simulations offer new explanation for star's 85-year flare. In this scenario, a young giant planet is burning up very close to its star, suggesting solar systems may have hosted many of such planets that have since 'evaporated'.
+
+The mystery of a stellar flare a trillion times more powerful than the largest of Solar flares may have been solved by a team of scientists who believe a massive young planet is burning up in a superheated soup of raw material swirling around it.
+
+Led by the University of Leicester and funded by the UK Science and Technology Facilities Council (STFC), the scientists have suggested that a planet roughly ten times larger in size than Jupiter is undergoing 'extreme evaporation' near to the growing star, with the inferno tearing material off the planet and flinging it onto the star.
+
+They have published their findings in the journal Monthly Notices of the Royal Astronomical Society. Statistics of such flares in developing solar systems suggests that each could witness up to a dozen of similar planet elimination events.
+
+The scientists focused their attention on the protostar FU Ori, located 1,200 light years from our solar system, which significantly increased in brightness 85 years ago and has still not dimmed to the usually expected luminosity.
+
+While astronomers believe that the increase in FU Ori luminosity is due to more material falling onto the protostar from a cloud of gas and dust called a protoplanetary disc, details of that remained a mystery.
+
+Lead author Professor Sergei Nayakshin from the University of Leicester School of Physics and Astronomy said: "These discs feed growing stars with more material but also nurture planets. Previous observations provided tantalizing hints of a young massive planet orbiting this star very close. Several ideas were put forward on how the planet may have encouraged such a flare, but the details did not work out. We discovered a new process which you might call a 'disc inferno' of young planets."
+
+The Leicester-led researchers created a simulation for FU Ori, modelling a gas giant planet formed far out in the disc by gravitational instability in which a massive disc fragments to make huge clumps more massive than our Jupiter but far less dense.
+
+The simulation shows how such a planetary seed migrates inward towards its host star very rapidly, drawn by its gravitational pull. As it reaches the equivalent of a tenth of the distance between Earth and our own sun, the material around the star is so hot it effectively ignites the outer layers of the planet's atmosphere. The planet then becomes a massive source of fresh material feeding the star and causing it to grow and shine brighter.
+
+Study co-author Dr Vardan Elbakyan, also Leicester-based, adds: "This was the first star that that was observed to undergo this kind of flare. We now have a couple dozen examples of such flares from other young stars forming in our corner of the Galaxy. While FU Ori events are extreme compared to normal young stars, from the duration and observability of such events, observers concluded that most emerging solar systems flare up like this a dozen or so times while the protoplanetary disc is around."
+
+Professor Nayakshin adds: "If our model is correct, then it may have profound implications for our understanding of both star and planet formation. Protoplanetary discs are often called nurseries of planets. But we now find that these nurseries are not quiet places that early solar system researchers imagined them to be, they are instead tremendously violent and chaotic places where many -- perhaps even most -- young planets get burned and literally eaten by their stars.
+
+"It is now important to understand whether other flaring stars can indeed be explained with the same scenario."
+
+This study received funding from the Science and Technology Facilities Council (STFC), part of UK Research and Innovation (UKRI).

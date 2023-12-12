@@ -1,0 +1,45 @@
+Hubble reaches new milestone in mystery of universe's expansion rate
+Date:
+May 24, 2022
+Source:
+NASA/Goddard
+Summary:
+NASA's Hubble Space Telescope has calibrated more than 40 'milepost markers' of space and time to help scientists precisely measure the expansion rate of the universe -- a quest with a plot twist.
+
+Completing a nearly 30-year marathon, NASA's Hubble Space Telescope has calibrated more than 40 "milepost markers" of space and time to help scientists precisely measure the expansion rate of the universe -- a quest with a plot twist.
+
+Pursuit of the universe's expansion rate began in the 1920s with measurements by astronomers Edwin P. Hubble and Georges Lemaître. In 1998, this led to the discovery of "dark energy," a mysterious repulsive force accelerating the universe's expansion. In recent years, thanks to data from Hubble and other telescopes, astronomers found another twist: a discrepancy between the expansion rate as measured in the local universe compared to independent observations from right after the big bang, which predict a different expansion value.
+
+The cause of this discrepancy remains a mystery. But Hubble data, encompassing a variety of cosmic objects that serve as distance markers, support the idea that something weird is going on, possibly involving brand new physics.
+
+"You are getting the most precise measure of the expansion rate for the universe from the gold standard of telescopes and cosmic mile markers," said Nobel Laureate Adam Riess of the Space Telescope Science Institute (STScI) and the Johns Hopkins University in Baltimore, Maryland.
+
+Riess leads a scientific collaboration investigating the universe's expansion rate called SH0ES, which stands for Supernova, H0, for the Equation of State of Dark Energy. "This is what the Hubble Space Telescope was built to do, using the best techniques we know to do it. This is likely Hubble's magnum opus, because it would take another 30 years of Hubble's life to even double this sample size," Riess said.
+
+Riess's team's paper, to be published in the Special Focus issue of The Astrophysical Journal reports on completing the biggest and likely last major update on the Hubble constant. The new results more than double the prior sample of cosmic distance markers. His team also reanalyzed all of the prior data, with the whole dataset now including over 1,000 Hubble orbits.
+
+When NASA conceived of a large space telescope in the 1970s, one of the primary justifications for the expense and extraordinary technical effort was to be able to resolve Cepheids, stars that brighten and dim periodically, seen inside our Milky Way and external galaxies. Cepheids have long been the gold standard of cosmic mile markers since their utility was discovered by astronomer Henrietta Swan Leavitt in 1912. To calculate much greater distances, astronomers use exploding stars called Type Ia supernovae.
+
+Combined, these objects built a "cosmic distance ladder" across the universe and are essential to measuring the expansion rate of the universe, called the Hubble constant after Edwin Hubble. That value is critical to estimating the age of the universe and provides a basic test of our understanding of the universe.
+
+Starting right after Hubble's launch in 1990, the first set of observations of Cepheid stars to refine the Hubble constant was undertaken by two teams: the HST Key Project led by Wendy Freedman, Robert Kennicutt, Jeremy Mould, and Marc Aaronson, and another by Allan Sandage and collaborators, that used Cepheids as milepost markers to refine the distance measurement to nearby galaxies. By the early 2000s the teams declared "mission accomplished" by reaching an accuracy of 10 percent for the Hubble constant, 72 plus or minus 8 kilometers per second per megaparsec.
+
+In 2005 and again in 2009, the addition of powerful new cameras onboard the Hubble telescope launched "Generation 2" of the Hubble constant research as teams set out to refine the value to an accuracy of just one percent. This was inaugurated by the SH0ES program. Several teams of astronomers using Hubble, including SH0ES, have converged on a Hubble constant value of 73 plus or minus 1 kilometer per second per megaparsec. While other approaches have been used to investigate the Hubble constant question, different teams have come up with values close to the same number.
+
+The SH0ES team includes long-time leaders Dr. Wenlong Yuan of Johns Hopkins University, Dr. Lucas Macri of Texas A&M University, Dr. Stefano Casertano of STScI, and Dr. Dan Scolnic of Duke University. The project was designed to bracket the universe by matching the precision of the Hubble constant inferred from studying the cosmic microwave background radiation leftover from the dawn of the universe.
+
+"The Hubble constant is a very special number. It can be used to thread a needle from the past to the present for an end-to-end test of our understanding of the universe. This took a phenomenal amount of detailed work," said Dr. Licia Verde, a cosmologist at ICREA and the ICC-University of Barcelona, speaking about the SH0ES team's work.
+
+The team measured 42 of the supernova milepost markers with Hubble. Because they are seen exploding at a rate of about one per year, Hubble has, for all practical purposes, logged as many supernovae as possible for measuring the universe's expansion. Riess said, "We have a complete sample of all the supernovae accessible to the Hubble telescope seen in the last 40 years." Like the lyrics from the song "Kansas City," from the Broadway musical Oklahoma, Hubble has "gone about as fur as it c'n go!"
+
+Weird Physics?
+
+The expansion rate of the universe was predicted to be slower than what Hubble actually sees. By combining the Standard Cosmological Model of the Universe and measurements by the European Space Agency's Planck mission (which observed the relic cosmic microwave background from 13.8 billion years ago), astronomers predict a lower value for the Hubble constant: 67.5 plus or minus 0.5 kilometers per second per megaparsec, compared to the SH0ES team's estimate of 73.
+
+Given the large Hubble sample size, there is only a one-in-a-million chance astronomers are wrong due to an unlucky draw, said Riess, a common threshold for taking a problem seriously in physics. This finding is untangling what was becoming a nice and tidy picture of the universe's dynamical evolution. Astronomers are at a loss for an explanation of the disconnect between the expansion rate of the local universe versus the primeval universe, but the answer might involve additional physics of the universe.
+
+Such confounding findings have made life more exciting for cosmologists like Riess. Thirty years ago they started out to measure the Hubble constant to benchmark the universe, but now it has become something even more interesting. "Actually, I don't care what the expansion value is specifically, but I like to use it to learn about the universe," Riess added.
+
+NASA's new Webb Space Telescope will extend on Hubble's work by showing these cosmic milepost markers at greater distances or sharper resolution than what Hubble can see.
+
+The Hubble Space Telescope is a project of international cooperation between NASA and ESA (European Space Agency). NASA's Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope. The Space Telescope Science Institute (STScI) in Baltimore, Maryland, conducts Hubble science operations. STScI is operated for NASA by the Association of Universities for Research in Astronomy in Washington, D.C.

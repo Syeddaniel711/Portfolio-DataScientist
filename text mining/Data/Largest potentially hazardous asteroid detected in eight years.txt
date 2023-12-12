@@ -1,0 +1,37 @@
+Largest potentially hazardous asteroid detected in eight years
+Date:
+October 31, 2022
+Source:
+Association of Universities for Research in Astronomy (AURA)
+Summary:
+Twilight observations with the US Department of Energy-fabricated Dark Energy Camera at Cerro Tololo Inter-American Observatory in Chile, a Program of NSF's NOIRLab, have enabled astronomers to spot three near-Earth asteroids (NEA) hiding in the glare of the Sun. These NEAs are part of an elusive population that lurks inside the orbits of Earth and Venus. One of the asteroids is the largest object that is potentially hazardous to Earth to be discovered in the last eight years.
+
+An international team using the Dark Energy Camera (DECam) mounted on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile, a Program of NSF's NOIRLab, has discovered three new near-Earth asteroids (NEAs) hiding in the inner Solar System, the region interior to the orbits of Earth and Venus. This is a notoriously challenging region for observations because asteroid hunters have to contend with the glare of the Sun.
+
+By taking advantage of the brief yet favorable observing conditions during twilight, however, the astronomers found an elusive trio of NEAs. One is a 1.5-kilometer-wide asteroid called 2022 AP7, which has an orbit that may someday place it in Earth's path. The other asteroids, called 2021 LJ4 and 2021 PH27, have orbits that safely remain completely interior to Earth's orbit. Also of special interest to astronomers and astrophysicists, 2021 PH27 is the closest known asteroid to the Sun. As such, it has the largest general-relativity effects [1] of any object in our Solar System and during its orbit its surface gets hot enough to melt lead.
+
+"Our twilight survey is scouring the area within the orbits of Earth and Venus for asteroids," said Scott S. Sheppard, an astronomer at the Earth and Planets Laboratory of the Carnegie Institution for Science and the lead author of the paper describing this work. "So far we have found two large near-Earth asteroids that are about 1 kilometer across, a size that we call planet killers."
+
+"There are likely only a few NEAs with similar sizes left to find, and these large undiscovered asteroids likely have orbits that keep them interior to the orbits of Earth and Venus most of the time," said Sheppard. "Only about 25 asteroids with orbits completely within Earth's orbit have been discovered to date because of the difficulty of observing near the glare of the Sun."
+
+Finding asteroids in the inner Solar System is a daunting observational challenge. Astronomers have only two brief 10-minute windows each night to survey this area and have to contend with a bright background sky resulting from the Sun's glare. Additionally, such observations are very near to the horizon, meaning that astronomers have to observe through a thick layer of Earth's atmosphere, which can blur and distort their observations. [2]
+
+Discovering these three new asteroids despite these challenges was possible thanks to the unique observing capabilities of DECam. The state-of-the-art instrument is one of the highest-performance, wide-field CCD imagers in the world, giving astronomers the ability to capture large areas of sky with great sensitivity. Astronomers refer to observations as 'deep' if they capture faint objects. When hunting for asteroids inside Earth's orbit, the capability to capture both deep and wide-field observations is indispensable. DECam was funded by the US Department of Energy (DOE) and was built and tested at DOE's Fermilab. "Large areas of sky are required because the inner asteroids are rare, and deep images are needed because asteroids are faint and you are fighting the bright twilight sky near the Sun as well as the distorting effect of Earth's atmosphere," said Sheppard. "DECam can cover large areas of sky to depths not achievable on smaller telescopes, allowing us to go deeper, cover more sky, and probe the inner Solar System in ways never done before."
+
+As well as detecting asteroids that could potentially pose a threat to Earth, this research is an important step toward understanding the distribution of small bodies in our Solar System. Asteroids that are further from the Sun than Earth are easiest to detect. Because of that these more-distant asteroids tend to dominate current theoretical models of the asteroid population. [3]
+
+Detecting these objects also allows astronomers to understand how asteroids are transported throughout the inner Solar System and how gravitational interactions and the heat of the Sun can contribute to their fragmentation.
+
+"Our DECam survey is one of the largest and most sensitive searches ever performed for objects within Earth's orbit and near to Venus's orbit," said Sheppard. "This is a unique chance to understand what types of objects are lurking in the inner Solar System."
+
+"After ten years of remarkable service, DECam continues to yield important scientific discoveries while at the same time contributing to planetary defense, a crucial service that benefits all humanity," said Chris Davis, NSF Program Director for NOIRLab.
+
+DECam was originally built to carry out the Dark Energy Survey, which was conducted by the DOE and the US National Science Foundation between 2013 and 2019.
+
+Notes
+
+[1] Einstein's general theory of relativity explains how massive objects warp the fabric of spacetime and how this influences the motion of objects in the Universe. In our Solar System, this influence can be directly measured as, for example, the precession of the orbit of planet Mercury, which cannot be accurately explained using only Newtonian physics.
+
+[2] Observing toward the inner Solar System is challenging for ground-based telescopes and impossible for space-based optical/infrared telescopes like NASA's Hubble and JWST telescopes. The intense light and heat of the Sun would fry the sensitive electronics. For this reason, both Hubble and JSWT are always pointed away from the Sun.
+
+[3] Atria asteroids -- also known by the Hawaiian term Apohele asteroids -- are the smallest group of near-Earth asteroids. Their orbits have an aphelion (farthest point from the Sun) smaller than Earth's perihelion (nearest point to the Sun).

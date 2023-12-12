@@ -1,0 +1,44 @@
+Dinosaur-killing asteroid impact cooled Earth's climate more than previously thought
+Date:
+October 31, 2017
+Source:
+American Geophysical Union
+Summary:
+The Chicxulub asteroid impact that wiped out the dinosaurs likely released far more climate-altering sulfur gas into the atmosphere than originally thought, according to new research.
+
+The Chicxulub asteroid impact that wiped out the dinosaurs likely released far more climate-altering sulfur gas into the atmosphere than originally thought, according to new research.
+
+A new study makes a more refined estimate of how much sulfur and carbon dioxide gas were ejected into Earth's atmosphere from vaporized rocks immediately after the Chicxulub event. The study's authors estimate more than three times as much sulfur may have entered the air compared to what previous models assumed, implying the ensuing period of cool weather may have been colder than previously thought.
+
+The new study lends support to the hypothesis that the impact played a significant role in the Cretaceous-Paleogene extinction event that eradicated nearly three-quarters of Earth's plant and animal species, according to Joanna Morgan, a geophysicist at Imperial College London in the United Kingdom and co-author of the new study published in Geophysical Research Letters, a journal of the American Geophysical Union.
+
+"Many climate models can't currently capture all of the consequences of the Chicxulub impact due to uncertainty in how much gas was initially released," Morgan said. "We wanted to revisit this significant event and refine our collision model to better capture its immediate effects on the atmosphere."
+
+The new findings could ultimately help scientists better understand how Earth's climate radically changed in the aftermath of the asteroid collision, according to Georg Feulner, a climate scientist at the Potsdam Institute for Climate Impact Research in Potsdam, Germany who was not involved with the new research. The research could help give new insights into how Earth's climate and ecosystem can significantly change due to impact events, he said.
+
+"The key finding of the study is that they get a larger amount of sulfur and a smaller amount of carbon dioxide ejected than in other studies," he said. "These improved estimates have big implications for the climactic consequences of the impact, which could have been even more dramatic than what previous studies have found."
+
+A titanic collision
+
+The Chicxulub impact occurred 66 million years ago when an asteroid approximately 12 kilometers (7 miles) wide slammed into Earth. The collision took place near what is now the Yucatán peninsula in the Gulf of Mexico. The asteroid is often cited as a potential cause of the Cretaceous-Paleogene extinction event, a mass extinction that erased up to 75 percent of all plant and animal species, including the dinosaurs.
+
+The asteroid collision had global consequences because it threw massive amounts of dust, sulfur and carbon dioxide into the atmosphere. The dust and sulfur formed a cloud that reflected sunlight and dramatically reduced Earth's temperature. Based on earlier estimates of the amount of sulfur and carbon dioxide released by the impact, a recent study published in Geophysical Research Letters showed Earth's average surface air temperature may have dropped by as much as 26 degrees Celsius (47 degrees Fahrenheit) and that sub-freezing temperatures persisted for at least three years after the impact.
+
+In the new research, the authors used a computer code that simulates the pressure of the shock waves created by the impact to estimate the amounts of gases released in different impact scenarios. They changed variables such as the angle of the impact and the composition of the vaporized rocks to reduce the uncertainty of their calculations.
+
+The new results show the impact likely released approximately 325 gigatons of sulfur and 425 gigatons of carbon dioxide into the atmosphere, more than 10 times global human emissions of carbon dioxide in 2014. In contrast, the previous study in Geophysical Research Letters that modeled Earth's climate after the collision had assumed 100 gigatons of sulfur and 1,400 gigatons of carbon dioxide were ejected as a result of the impact.
+
+Improving the impact model
+
+The new study's methods stand out because they ensured only gases that were ejected upwards with a minimum velocity of 1 kilometer per second (2,200 miles per hour) were included in the calculations. Gases ejected at slower speeds didn't reach a high enough altitude to stay in the atmosphere and influence the climate, according to Natalia Artemieva, a senior scientist at the Planetary Science Institute in Tucson, Arizona and co-author of the new study.
+
+Older models of the impact didn't have as much computing power and were forced to assume all the ejected gas entered the atmosphere, limiting their accuracy, Artemieva said.
+
+The study authors also based their model on updated estimates of the impact's angle. An older study assumed the asteroid hit the surface at an angle of 90 degrees, but newer research shows the asteroid hit at an angle of approximately 60 degrees. Using this revised angle of impact led to a larger amount of sulfur being ejected into the atmosphere, Morgan said.
+
+The study's authors did not model how much cooler Earth would have been as a result of their revised estimates of how much gas was ejected. Judging from the cooling seen in the previous study, which assumed a smaller amount of sulfur was released by the impact, the release of so much sulfur gas likely played a key role in the extinction event. The sulfur gas would have blocked out a significant amount of sunlight, likely leading to years of extremely cold weather potentially colder than the previous study found. The lack of sunlight and changes in ocean circulation would have devastated Earth's plant life and marine biosphere, according to Feulner.
+
+The release of carbon dioxide likely led to some long-term climate warming, but its influence was minor compared to the cooling effect of the sulfur cloud, Feulner said.
+
+Along with gaining a better understand of the Chicxulub impact, researchers can also use the new study's methods to estimate the amount of gas released during other large impacts in Earth's history. For example, the authors calculated the Ries crater located in Bavaria, Germany was formed by an impact that ejected 1.3 gigatons of carbon dioxide into the atmosphere. This amount of gas likely had little effect on Earth's climate, but the idea could be applied to help understand the climactic effects of larger impacts.
+

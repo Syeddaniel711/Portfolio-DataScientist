@@ -1,0 +1,35 @@
+Large asteroid to pass by Earth Nov. 8, but what if it didn't?
+Date:
+November 1, 2011
+Source:
+Purdue University
+Summary:
+An asteroid the size of an aircraft carrier will fly near Earth on Nov. 8, 2011. While there is no danger of it hitting the planet, an asteroid impact expert says a similar-sized object hitting Earth would result in a 4,000-megaton blast, magnitude 7.0 earthquake and, should it strike in the deep ocean, 70-foot-high tsunami waves 60 miles from the splashdown site
+
+An asteroid the size of an aircraft carrier will fly near Earth on Nov. 8, 2011. While there is no danger of it hitting the planet, a Purdue asteroid impact expert says a similar-sized object hitting Earth would result in a 4,000-megaton blast, magnitude 7.0 earthquake and, should it strike in the deep ocean, 70-foot-high tsunami waves 60 miles from the splashdown site.
+
+NASA scientists reported this week that the asteroid 2005 YU55 will pass between Earth and the moon and come within 201,000 miles of Earth on its closest approach.
+
+Jay Melosh, an expert in impact cratering and a distinguished professor of earth and atmospheric sciences, physics, and aerospace engineering at Purdue, said the asteroid's orbit and trajectory mean there is no chance of an impact.
+
+"What is unique about this asteroid flyby is that we were aware of it well in advance," Melosh said. "Before about 1980 we wouldn't know about an asteroid of this size until it was already making a close pass, but now it is unlikely that such an asteroid will approach the Earth without our knowledge."
+
+NASA's Near Earth Object, or NEO, program (http://neo.jpl.nasa.gov/) celebrated a milestone earlier this year by announcing that current search programs have discovered more than 90 percent of near-Earth objects more than six-tenths of a mile in diameter. A larger number of smaller objects have yet to be found, however.
+
+Spacewatch (http://spacewatch.lpl.arizona.edu/), a program created to discover and track all large asteroids crossing Earth's orbit, discovered YU55 in 2005. This close approach has been expected since then, he said.
+
+Melosh used the asteroid impact effects calculator he developed to estimate what would happen if the asteroid, which is a quarter mile in diameter, hit Earth. The calculator, "Impact: Earth!" allows anyone to calculate potential comet or asteroid damage.
+
+Users first enter a few parameters, such as the diameter of the approaching object, its density, velocity, angle of entry and where it will hit Earth. The site then estimates the consequences of its impact, including the atmospheric blast wave, ground shaking, size of tsunami generated, fireball expansion, distribution of debris and size of the crater produced. The calculator is available at http://www.purdue.edu/impactearth
+
+For example, YU55 would strike with a velocity of 11 miles per second. Although it would begin to disintegrate as it passed through the atmosphere, the fragments would strike in a compact cluster that would blast out a crater 4 miles in diameter and 1,700 feet deep, Melosh said. Sixty miles away from the impact site the heat from the fireball would cause extensive first-degree skin burns, the seismic shaking would knock down chimneys and the blast wave would shatter glass windows.
+
+If YU55 were to strike a large city like Chicago, it would obliterate the entire city and leave few survivors. Fortunately, the chance of a large impact targeted on a city is very small, he said.
+
+According to NASA, the last time an asteroid this size came close to Earth was in 1976, and the next known approach of such a large asteroid will be in 2028.
+
+The most recent impact of this size is not known, but there are about 20 similar craters known in the geologic record, including the Wetumka crater in Alabama and the Rock Elm crater in Wisconsin. Of the known large craters, the most recent are the six-mile-wide Bosumtwi crater in Ghana, which is about 1 million years old, and the nine-mile-diameter Zhamanshin crater in Kazakhstan, which is about 900,000 years old, Melosh said.
+
+"Impacts from asteroids of this size are very rare," he said. "They occur about once every 100,000 years, so the chances of an actual collision with an asteroid like YU55 is about 1 percent in the next thousand years. Apophis, a similar-sized asteroid about one-third of a mile in diameter is the biggest threat in our near future. It has a tiny chance of striking the Earth in 2036."
+
+Melosh is a co-author of a 2010 NRC report "Defending Planet Earth" that explores the feasibility of detecting all Earth-crossing asteroids down to a diameter of 140 meters, or about one-tenth of a mile, and of ways to mitigate their hazard.

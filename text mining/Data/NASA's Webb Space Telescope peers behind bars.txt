@@ -1,0 +1,17 @@
+NASA's Webb Space Telescope peers behind bars
+Date:
+June 5, 2023
+Source:
+NASA/Goddard Space Flight Center
+Summary:
+A delicate tracery of dust and bright star clusters threads across this image from the James Webb Space Telescope. The bright tendrils of gas and stars belong to the barred spiral galaxy NGC 5068, whose bright central bar is visible in the upper left of this image -- a composite from two of Webb's instruments.
+
+A delicate tracery of dust and bright star clusters threads across this image from the James Webb Space Telescope. The bright tendrils of gas and stars belong to the barred spiral galaxy NGC 5068, whose bright central bar is visible in the upper left of this image -- a composite from two of Webb's instruments. NASA Administrator Bill Nelson revealed the image Friday during an event with students at the Copernicus Science Centre in Warsaw, Poland.
+
+NGC 5068 lies around 20 million light-years from Earth in the constellation Virgo. This image of the central, bright star-forming regions of the galaxy is part of a campaign to create an astronomical treasure trove, a repository of observations of star formation in nearby galaxies. Previous gems from this collection can be seen here (IC 5332) and here (M74). These observations are particularly valuable to astronomers for two reasons. The first is because star formation underpins so many fields in astronomy, from the physics of the tenuous plasma that lies between stars to the evolution of entire galaxies. By observing the formation of stars in nearby galaxies, astronomers hope to kick-start major scientific advances with some of the first available data from Webb.
+
+The second reason is that Webb's observations build on other studies using telescopes including the Hubble Space Telescope and ground-based observatories. Webb collected images of 19 nearby star-forming galaxies which astronomers could then combine with Hubble images of 10,000 star clusters, spectroscopic mapping of 20,000 star-forming emission nebulae from the Very Large Telescope (VLT), and observations of 12,000 dark, dense molecular clouds identified by the Atacama Large Millimeter/submillimeter Array (ALMA). These observations span the electromagnetic spectrum and give astronomers an unprecedented opportunity to piece together the minutiae of star formation.
+
+With its ability to peer through the gas and dust enshrouding newborn stars, Webb is particularly well-suited to explore the processes governing star formation. Stars and planetary systems are born amongst swirling clouds of gas and dust that are opaque to visible-light observatories like Hubble or the VLT. The keen vision at infrared wavelengths of two of Webb's instruments -- MIRI (Mid-Infrared Instrument) and NIRCam (Near-Infrared Camera) -- allowed astronomers to see right through the gargantuan clouds of dust in NGC 5068 and capture the processes of star formation as they happened. This image combines the capabilities of these two instruments, providing a truly unique look at the composition of NGC 5068.
+
+The James Webb Space Telescope is the world's premier space science observatory. Webb will solve mysteries in our solar system, look beyond to distant worlds around other stars, and probe the mysterious structures and origins of our universe and our place in it. Webb is an international program led by NASA with its partners, ESA (European Space Agency) and the Canadian Space Agency.

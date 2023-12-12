@@ -1,0 +1,63 @@
+New NASA DART data prove viability of asteroid deflection as planetary defense strategy
+Date:
+March 1, 2023
+Source:
+University of Maryland
+Summary:
+Astronomers offer new insight into how deflection missions can protect the planet from future Earth-bound asteroids and comets.
+
+NASA's Double Asteroid Redirection Test (DART) was Earth's first attempt at launching a spacecraft to intentionally collide with and deflect an asteroid as a planetary defense technique. On September 26, 2022, the DART spacecraft collided with a small asteroid moon called Dimorphos, which orbits a larger asteroid called Didymos. Neither asteroid posed a threat to Earth, but they represented similar celestial bodies that could one day approach and endanger the planet.
+
+In four papers published in the journal Nature on March 1, 2023, the DART team -- which includes University of Maryland astronomers -- detailed DART's successful impact, the possible physics behind the collision, observations of the resulting debris ejected from the asteroid and calculations of Dimorphos' orbital changes. The findings confirm the feasibility of redirecting near-Earth objects like asteroids as a planetary defense measure.
+
+"We can't stop hurricanes or earthquakes yet, but we ultimately learned that we can prevent an asteroid impact with sufficient time, warning and resources," said Derek Richardson, a professor of astronomy at UMD and a DART investigation working group lead. "With sufficient time, a relatively small change in an asteroid's orbit would cause it to miss the Earth, preventing large-scale destruction from occurring on our planet."
+
+DART mission more successful than expected
+
+Richardson and his UMD Department of Astronomy colleagues Professor Jessica Sunshine and Principal Research Scientist Tony Farnham played critical roles in studying the effectiveness of the DART mission to deflect an asteroid from an Earth-bound path.
+
+Farnham was instrumental in computing the geometrical conditions and dimensions needed to interpret observations of the event accurately. Using data from spacecraft engineers and from the Didymos Reconnaissance and Asteroid Camera for Optical Navigation (DRACO), Farnham helped determine what the DART spacecraft was looking at as it approached Dimorphos.
+
+"When dealing with observations from a spacecraft, we need to understand where in space the spacecraft is located with respect to the asteroid, the sun and Earth and where it's facing at any given time," Farnham explained. "With this information, we have the context to make our conjectures and evaluate our work."
+
+Thanks to Farnham's work, the DART team gained important information about the general timeline of the impact, the location and nature of the impact site, and the size and shape of Dimorphos. To the team's surprise, they found the small asteroid to be an oblate spheroid, or a slightly squashed sphere-like body, instead of a more elongated shape expected from theoretical predictions.
+
+"Both Didymos and Dimorphos are more squishy in shape -- looking more like peanut butter M&Ms and less like peanut M&Ms -- than we expected," Sunshine said. "This shape also challenges some of our preconceptions about how such asteroids form and complicates the physics behind DART because it prompts us to rethink our current models of binary asteroids."
+
+In addition to Dimorphos' irregular shape, the scientists also noticed that the asteroid's surface was noticeably bouldery and blocky. This geomorphic quality likely influenced crater formation, the amount and physical properties of ejecta (debris expelled from impacts), and the momentum of a DART-like impact.
+
+Sunshine, who previously served as the deputy principal investigator for the UMD-led NASA Deep Impact mission, observed that these different textural qualities led to different impact outcomes -- critical in evaluating how successfully the DART spacecraft redirected Dimorphos from its original orbit.
+
+"The Deep Impact mission collided with a comet whose surface is made up of small, mostly uniform grains," Sunshine explained. "Deep Impact resulted in a more uniform fan of debris than the filamentary structures seen after DART's impact into bouldery terrain. As it turns out, the movement of DART-caused ejecta really had a profound effect on the success of DART's mission."
+
+Extra push from impact debris shortened Dimorphos' orbit
+
+The DART spacecraft was not the sole provider of momentum in the impact with Dimorphos; an additional shove was caused by violent spews of debris when the spacecraft slammed into the diminutive asteroid moon.
+
+"There was so much debris ejected from the impact that Dimorphos was pushed approximately 3.5 times more effectively compared to being hit by the DART spacecraft alone," explained Richardson, who helped compute and verify the momentum transferred between the DART spacecraft and Dimorphos.
+
+According to Farnham, who calculated the direction of the asteroid's ejecta, this finding was confirmed when the team measured the asteroid's orbit had changed more than the team's more conservative expectations. The difference in orbital periods, or the length of time it takes for a celestial object to complete one rotation around another object, indicates that the orbit of Dimorphos around Didymos had changed.
+
+"Pre-impact, we expected the impact to shorten Dimorphos' orbit by only about 10 minutes,'' Farnham said. "But after the impact, we learned that the orbital period was shortened even more, reducing an ordinarily 12-hour orbit by slightly more than 30 minutes. In other words, the ejected material acted as a jet to push the moon even further out of its original orbit."
+
+Following up with Hera mission
+
+The DART mission represents a major first step to developing appropriate planetary defense strategies against near-Earth objects like asteroids.
+
+The DART team anticipates that the upcoming European Space Agency Hera mission launching in October 2024 will unravel more information about the DART impact site. By 2026-27, the Hera spacecraft will revisit the binary asteroid system containing Dimorphos and Didymos and assess the internal properties of both asteroids for the first time, providing a more detailed analysis of the DART impact's effects on the system and the geophysics behind solar system formation.
+
+"We still don't know a lot about Dimorphos and Didymos because we have only seen the outsides," Sunshine said. "What is their internal structure like? Are there differences in porosity between the two? Those are the types of questions we need to answer to really see how effective our deflections are and how celestial bodies like those asteroids form and evolve."
+
+While the Hera mission is still in the construction phase, research from both DART and its predecessors like Deep Impact still offer a wealth of information on how humans can develop additional ways to defend Earth from approaching asteroids and comets. Thanks to a legacy of kinetic impact testing initiatives and planetary defense research led by the late Distinguished University Professor of Astronomy Mike A'Hearn, UMD astronomers are uniquely equipped to evaluate and advance planetary scale impact experimentation. Richardson, Sunshine, Farnham and their colleagues hope to honor the work that led up to DART by continuing to help pioneer new methods of asteroid threat mitigation.
+
+"These papers are simply the very first results about the DART mission to be published," Farnham said. "But there are dozens of studies currently underway that will help us further our understanding of the impact and implications for planetary defense while uncovering more interesting phenomena."
+
+The expansion rate of the universe was predicted to be slower than what Hubble actually sees. By combining the Standard Cosmological Model of the Universe and measurements by the European Space Agency's Planck mission (which observed the relic cosmic microwave background from 13.8 billion years ago), astronomers predict a lower value for the Hubble constant: 67.5 plus or minus 0.5 kilometers per second per megaparsec, compared to the SH0ES team's estimate of 73.
+
+Given the large Hubble sample size, there is only a one-in-a-million chance astronomers are wrong due to an unlucky draw, said Riess, a common threshold for taking a problem seriously in physics. This finding is untangling what was becoming a nice and tidy picture of the universe's dynamical evolution. Astronomers are at a loss for an explanation of the disconnect between the expansion rate of the local universe versus the primeval universe, but the answer might involve additional physics of the universe.
+
+Such confounding findings have made life more exciting for cosmologists like Riess. Thirty years ago they started out to measure the Hubble constant to benchmark the universe, but now it has become something even more interesting. "Actually, I don't care what the expansion value is specifically, but I like to use it to learn about the universe," Riess added.
+
+NASA's new Webb Space Telescope will extend on Hubble's work by showing these cosmic milepost markers at greater distances or sharper resolution than what Hubble can see.
+
+The Hubble Space Telescope is a project of international cooperation between NASA and ESA (European Space Agency). NASA's Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope. The Space Telescope Science Institute (STScI) in Baltimore, Maryland, conducts Hubble science operations. STScI is operated for NASA by the Association of Universities for Research in Astronomy in Washington, D.C.

@@ -1,0 +1,29 @@
+Astronomers pinpoint the best place on Earth for a telescope: High on a frigid Antarctic plateau
+Date:
+July 29, 2020
+Source:
+University of British Columbia
+Summary:
+Dome A, the highest ice dome on the Antarctic Plateau, could offer the clearest view on Earth of the stars at night, according to new research. The challenge? The location is one of the coldest and most remote places on Earth.
+au, could offer the clearest view on Earth of the stars at night, according to new research by an international team from China, Australia and the University of British Columbia (UBC). The challenge? The location is one of the coldest and most remote places on Earth.
+
+The findings were published today in Nature.
+
+"A telescope located at Dome A could out-perform a similar telescope located at any other astronomical site on the planet," said UBC astronomer Paul Hickson, a co-author of the study. "The combination of high altitude, low temperature, long periods of continuous darkness, and an exceptionally stable atmosphere, makes Dome A a very attractive location for optical and infrared astronomy. A telescope located there would have sharper images and could detect fainter objects."
+
+One of the biggest challenges in Earth-based astronomy is overcoming the effect of atmospheric turbulence on telescope image quality. This turbulence makes stars twinkle, and measurement of its impact is referred to as 'seeing'. The less turbulence (the lower the seeing number) the better.
+
+"The thinner boundary layer at Dome A makes it less challenging to locate a telescope above it, thereby giving greater access to the free atmosphere," said UBC astronomer Bin Ma, lead author on the paper.
+
+Currently, the highest performing observatories are located in high-altitude locations along the equator (Chile and Hawai?i) and offer seeing in the range of 0.6 to 0.8 arcseconds. In general, the Antarctic has the potential for better seeing, owing to weaker turbulence in the free atmosphere, with an estimated range of 0.23 to 0.36 arcseconds at a location called Dome C.
+
+Ma, Hickson and colleagues in China and Australia evaluated a different location, Dome A -- also referred to as Dome Argus. Dome A is located near the centre of East Antartica, 1,200 kilometres inland.
+
+The researchers estimated the location has a thinner boundary layer (the lowest part of the atmosphere, which is influenced by friction from the Earth's surface) than Dome C. Previous measurements from Dome A have been taken in the daytime, but the authors report a median night-time seeing of 0.31 arcseconds, reaching as low as 0.13 arcseconds.
+
+The measurements from Dome A, taken at a height of eight metres, were much better than those from the same height at Dome C and comparable to those at a height of 20 metres at Dome C.
+
+Not surprisingly, the viewing capabilities of the researchers' equipment were also hampered by frost -- overcoming this issue could improve seeing by 10 to 12 per cent. But the site has promise, according to Ma.
+
+"Our telescope observed the sky fully automatically at an unmanned station in Antarctica for seven months, with air temperature dropping to -75C at times. In and of itself, that's a technological breakthrough."
+

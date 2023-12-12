@@ -1,0 +1,30 @@
+'Forbidden' planet orbiting small star challenges gas giant formation theories
+Based on our current understanding of planet formation, TOI-5205b should not exist; it is a 'forbidden' planet.'
+Date:
+February 22, 2023
+Source:
+Carnegie Institution for Science
+Summary:
+Astronomers have discovered an unusual planetary system in which a large gas giant planet orbits a small red dwarf star called TOI-5205. Their findings challenge long-held ideas about planet formation.
+
+A team of astronomers led by Carnegie's Shubham Kanodia has discovered an unusual planetary system in which a large gas giant planet orbits a small red dwarf star called TOI-5205. Their findings which are published in The Astronomical Journal, challenge long-held ideas about planet formation.
+
+Smaller and cooler than our Sun, M dwarfs are the most common stars in our Milky Way galaxy. Due to their small size, these stars tend to be about half as hot as the Sun and much redder. They have very low luminosities, but extremely long lifespans. Although red dwarfs host more planets, on average, than other, more massive types of stars, their formation histories make them unlikely candidates to host gas giants.
+
+The newly discovered planet -- TOI 5205b -- was first identified as a potential candidate by NASA's Transiting Exoplanet Survey Satellite (TESS). Kanodia's team, which included Carnegie's Anjali Piette, Alan Boss, Johanna Teske, and John Chambers, then confirmed its planetary nature and characterized it using a variety of ground-based instruments and facilities.
+
+"The host star, TOI-5205, is just about four times the size of Jupiter, yet it has somehow managed to form a Jupiter-sized planet, which is quite surprising!" exclaimed Kanodia, who specializes in studying these stars, which comprise nearly three-quarters of our galaxy yet can't be seen with the naked eye.
+
+A small number of gas giants have been discovered orbiting older M dwarf stars. But until now no gas giant has been found in a planetary system around a low-mass M dwarf like TOI-5205. To grasp the size comparison here, a Jupiter-like planet orbiting a Sun-like star could be compared to a pea going around a grapefruit; for TOI-5205b, because the host star is so much smaller, it is more like a pea going around a lemon. In fact, when the Jupiter-mass TOI 5205b crosses in front of its host, it blocks about seven percent of its light -- one of the largest known exoplanet transits.
+
+Planets are born in the rotating disk of gas and dust that surrounds young stars. The most commonly used theory of gas planet formation requires about 10 Earth masses of this rocky material to accumulate and form a massive rocky core, after which it rapidly sweeps up large amounts of gas from the neighboring regions of the disk to form the giant planet we see today.
+
+The time frame in which this happens is crucial.
+
+"TOI-5205b's existence stretches what we know about the disks in which these planets are born," Kanodia explained. "In the beginning, if there isn't enough rocky material in the disk to form the initial core, then one cannot form a gas giant planet. And at the end, if the disk evaporates away before the massive core is formed, then one cannot form a gas giant planet. And yet TOI-5205b formed despite these guardrails. Based on our nominal current understanding of planet formation, TOI-5205b should not exist; it is a "forbidden" planet."
+
+The team demonstrated that the planet's very large transit depth makes it extremely conducive for future observations with the recently launched JWST, which could shed some light on its atmosphere and offer some additional clues about the mystery of its formation.
+
+The TESS follow-up research was conducted using the Habitable-zone Planet Finder (HPF; Texas, US) and Low Resolution Spectrograph (LRS2; Texas, US) on the 10-m Hobby Eberly Telescope, the ARCTIC camera on the 3.5-m Apache Point Observatory (APO; New Mexico, US), the NN-Explore Exoplanet Stellar Speckle Imager (NESSI, Arizona, US) at the 3.5-m WIYN telescope, the 0.6-m Red Buttes Observatory (RBO, Wyoming, US), and the 0.3 m Three Hundred Millimeter Telescope (TMMT, Chile).
+
+Other members of the research team were: Penn State University's Suvrath Mahadevan, Jessica Libby-Roberts, Caleb Cañas (also of NASA Goddard Space Flight Center), Andrea Lin, Arvind Gupta, Luke Powers, and Lawrence Ramsey; Princeton University's Gudmundur Stefansson; University of Texas Austin's Greg Zeimann and William Cochran; University of Arizona's Andrew Monson and Chad Bender; UC Irvine's Paul Robertson; the Tata Institute of Fundamental Research's Joe Ninan; University of Colorado Boulder's Scott Diddams; the Jet Propulsion Laboratory's Samuel Halverson; University of Washington's Suzanne Hawley; University of Wyoming's Henry Kobulnicky, Brock Parker, and Tera Swaby; the Air Force Research Laboratory's Andrew Metcalf; the Space Telescope Science Institute's Arpita Roy (also of Johns Hopkins University); Macquarie University's Christian Schwab; Carleton College's Ryan Terrien; and George Mason University's John Wisniewski.

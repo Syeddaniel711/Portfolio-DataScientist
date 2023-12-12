@@ -1,0 +1,40 @@
+Webb Space Telescope reveals previously shrouded newborn stars
+Webb's infrared camera peers through dust clouds, enabling discovery
+Date:
+December 16, 2022
+Source:
+Rice University
+Summary:
+Astronomers took a 'deep dive' into one of the first images from NASA's James Webb Space Telescope and were rewarded with a surprising discovery: telltale signs of two dozen previously unseen young stars about 7,500 light years from Earth.
+
+Rice University astronomer Megan Reiter and colleagues took a "deep dive" into one of the first images from NASA's James Webb Space Telescope and were rewarded with the discovery of telltale signs from two dozen previously unseen young stars about 7,500 light years from Earth.
+
+The published research in the December issue of the Monthly Notices of the Royal Astronomical Society offers a glimpse of what astronomers will find with Webb's near-infrared camera. The instrument is designed to peer through clouds of interstellar dust that have previously blocked astronomers' view of stellar nurseries, especially those that produce stars similar to Earth's sun.
+
+Reiter, an assistant professor of physics and astronomy, and co-authors from the California Institute of Technology, the University of Arizona, Queen Mary University in London and the United Kingdom's Royal Observatory in Edinburgh, Scotland, analyzed a portion of Webb's first images of the Cosmic Cliffs, a star-forming region in a cluster of stars known as NGC 3324.
+
+"What Webb gives us is a snapshot in time to see just how much star formation is going on in what may be a more typical corner of the universe that we haven't been able to see before," said Reiter, who led the study.
+
+Located in the southern constellation Carina, NGC 3324 hosts several well-known regions of star formation that astronomers have studied for decades. Many details from the region have been obscured by dust in images from the Hubble Space Telescope and other observatories. Webb's infrared camera was built to see through dust in such regions and to detect jets of gas and dust that spew from the poles of very young stars.
+
+Reiter and colleagues focused their attention on a portion of NGC 3324 where only a few young stars had previously been found. By analyzing a specific infrared wavelength, 4.7 microns, they discovered two dozen previously unknown outflows of molecular hydrogen from young stars. The outflows range in size, but many appear to come from protostars that will eventually become low-mass stars like Earth's sun.
+
+"The findings speak both to how good the telescope is and to how much there is going on in even quiet corners of the universe," Reiter said.
+
+Within their first 10,000 years, newborn stars gather material from the gas and dust around them. Most young stars eject a fraction of that material back into space via jets that stream out in opposite directions from their poles. Dust and gas pile up in front of the jets, which clear paths through nebular clouds like snowplows. One vital ingredient for baby stars, molecular hydrogen, gets swept up by these jets and is visible in Webb's infrared images.
+
+"Jets like these are signposts for the most exciting part of the star formation process," said study co-author Nathan Smith of the University of Arizona. "We only see them during a brief window of time when the protostar is actively accreting."
+
+The accretion period of early star formation has been especially difficult for astronomers to study because it is fleeting -- usually just a few thousand years in the earliest portion of a star's multimillion-year childhood.
+
+Study co-author Jon Morse of the California Institute of Technology said jets like those discovered in the study "are only visible when you embark on that deep dive -- dissecting data from each of the different filters and analyzing each area alone.
+
+"It's like finding buried treasure," Morse said.
+
+Reiter said the size of the Webb telescope also played a role in the discovery.
+
+"It's just a huge light bucket," Reiter said. "That lets us see smaller things that we might have missed with a smaller telescope. And it also gives us really good angular resolution. So we get a level of sharpness that allows us to see relatively small features, even in faraway regions."
+
+The Webb Space Telescope program is led by NASA in partnership with the European Space Agency (ESA) and the Canadian Space Agency (CSA). The telescope's science and mission operations are led by the Space Telescope Science Institute (STScI) in Baltimore.
+
+The research was supported by NASA (NAS 5-0312, NAS 5-26555), STScI and a Dorothy Hodgkin Fellowship from the UK's Royal Society.

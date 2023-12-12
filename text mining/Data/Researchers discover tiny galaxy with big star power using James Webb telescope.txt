@@ -1,0 +1,28 @@
+Researchers discover tiny galaxy with big star power using James Webb telescope
+Galaxy is the smallest ever discovered at this distance -- around 500 million years after the Big Bang
+Date:
+April 13, 2023
+Source:
+University of Minnesota
+Summary:
+Using new observations from the James Webb Space Telescope, astronomers looked more than 13 billion years into the past to discover a unique, minuscule galaxy that could help astronomers learn more about galaxies that were present shortly after the Big Bang.
+
+The paper is published in Science, one of the world's top peer-reviewed academic journals.
+
+The University of Minnesota researchers were one of the first teams to study a distant galaxy using the James Webb Space Telescope, and their findings will be among the first ever published.
+
+“This galaxy is far beyond the reach of all telescopes except the James Webb, and these first-of-their-kind observations of the distant galaxy are spectacular,” said Patrick Kelly, senior author of the paper and an assistant professor in the University of Minnesota School of Physics and Astronomy. “Here, we’re able to see most of the way back to the Big Bang, and we've never looked at galaxies when the universe was this young in this level of detail. The galaxy’s volume is roughly a millionth of the Milky Way’s, but we can see that it’s still forming the same numbers of stars each year.”
+
+The James Webb telescope can observe a wide enough field to image an entire galaxy cluster at once. The researchers were able to find and study this new, tiny galaxy because of a phenomenon called gravitational lensing—where mass, such as that in a galaxy or galaxy cluster, bends and magnifies light. A galaxy cluster lens caused this small background galaxy to appear 20 times brighter than it would if the cluster were not magnifying its light.
+
+The researchers then used spectroscopy to measure how far away the galaxy was, in addition to some of its physical and chemical properties. Studying galaxies that were present when the Universe was this much younger can help scientists get closer to answering a huge question in astronomy regarding how the Universe became reionized. 
+
+“The galaxies that existed when the Universe was in its infancy are very different from what we see in the nearby Universe now,” explained Hayley Williams, first author on the paper and a Ph.D. student at the Minnesota Institute for Astrophysics. “This discovery can help us learn more about the characteristics of those first galaxies, how they differ from nearby galaxies, and how the earlier galaxies formed.”
+
+The James Webb telescope can collect about 10 times as much light as the Hubble Space Telescope and is much more sensitive at redder, longer wavelengths in the infrared spectrum. This allows scientists to access an entirely new window of data, the researchers said.
+
+“The James Webb Space Telescope has this amazing capability to see extremely far into the universe,” Williams said. “This is one of the most exciting things about this paper. We're seeing things that previous telescopes would have ever been able to capture. It’s basically getting a snapshot of our universe in the first 500 million years of its life.”
+
+The research was supported by the National Science Foundation and NASA through the Space Telescope Science Institute, with additional funding from the United States-Israel Binational Science Foundation and the Spanish State Research Agency.
+
+In addition to Williams and Kelly, the research team included University of Minnesota School of Physics and Astronomy postdoctoral researcher Wenlei Chen, Professor Claudia Scarlata, Ph.D. student Yu-Heng Lin, and graduate student Noah Rogers; University of Copenhagen researchers Gabriel Brammer, Jens Hjorth, and Danial Langeroodi; Ben-Gurion University of the Negev Associate Professor Adi Zitrin; University of California Los Angeles faculty member Tomasso Treu; Space Telescope Science Institute researchers Anton Koekemoer, Lou Strolger, and Justin Pierel; Chiba University faculty member Masamune Oguri; University of Cantebria researcher Jose Diego; Astronomical Observatory of Trieste researcher Mario Nonino; University of the Basque Country Professor Tom Broadhurst; University of La Laguna researchers Ismael Perez-Fournon and Frederick Poidevin; University of California Santa Cruz Assistant Professor Ryan Foley; Rutgers University Professor Saurabh Jha; University of California Berkeley Professor Alexei Filippenko; and University of Tokyo postdoctoral researcher Lilan Yang.

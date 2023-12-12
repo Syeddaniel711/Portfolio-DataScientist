@@ -1,0 +1,31 @@
+James Webb Space Telescope images challenge theories of how universe evolved
+Date:
+April 13, 2023
+Source:
+University of Texas at Austin
+Summary:
+Astronomers find that six of the earliest and most massive galaxy candidates observed by the James Webb Space Telescope so far appear to have converted nearly 100% of their available gas into stars, a finding at odds with the reigning model of cosmology.
+
+The James Webb Space Telescope (JWST) appears to be finding multiple galaxies that grew too massive too soon after the Big Bang, if the standard model of cosmology is to be believed.
+
+In a study published in Nature Astronomy, Mike Boylan-Kolchin, an associate professor of astronomy at The University of Texas at Austin, finds that six of the earliest and most massive galaxy candidates observed by JWST so far stand to contradict the prevailing thinking in cosmology. That's because other researchers estimate that each galaxy is seen from between 500 and 700 million years after the Big Bang, yet measures more than 10 billion times as massive as our sun. One of the galaxies even appears to be more massive than the Milky Way, despite that our own galaxy had billions of more years to form and grow.
+
+"If the masses are right, then we are in uncharted territory," Boylan-Kolchin said. "We'll require something very new about galaxy formation or a modification to cosmology. One of the most extreme possibilities is that the universe was expanding faster shortly after the Big Bang than we predict, which might require new forces and particles."
+
+For galaxies to form so fast at such a size, they also would need to be converting nearly 100% of their available gas into stars.
+
+"We typically see a maximum of 10% of gas converted into stars," Boylan-Kolchin said. "So while 100% conversion of gas into stars is technically right at the edge of what is theoretically possible, it's really the case that this would require something to be very different from what we expect."
+
+For all of the breathless excitement it evokes, JWST has presented astronomers with an unsettling dilemma. If the masses and time since the Big Bang are confirmed for these galaxies, fundamental changes to the reigning model of cosmology -- what's called the dark energy + cold dark matter (ΛCDM) paradigm, which has guided cosmology since the late 1990s -- could be needed. If there are other, faster ways to form galaxies than ΛCDM allows, or if more matter actually was available for forming stars and galaxies in the early universe than was previously understood, astronomers would need to shift their prevailing thinking.
+
+The six galaxies' times and masses are initial estimates and will need follow-up confirmation with spectroscopy -- a method that splits the light into a spectrum and analyzes the brightness of different colors. Such analysis might suggest that central supermassive black holes, which could heat up the surrounding gas, may be making the galaxies brighter so that they look more massive than they really are. Or perhaps the galaxies are actually seen at a time much later than originally estimated due to dust that causes the color of the light from the galaxy to shift redder, giving the illusion of being more lightyears away and, thus, further back in time.
+
+The galaxy data came from the Cosmic Evolution Early Release Science Survey (CEERS), a multi-institution JWST initiative led by UT Austin astronomer Steven Finkelstein.
+
+Another ongoing collaborative JWST project, COSMOS-Web, co-led by UT Austin's Caitlin Casey, may be involved with spectroscopy and shedding more light on the findings to help resolve the dilemma. COSMOS-Web is covering an area roughly 50 times larger than CEERS and is expected to discover thousands of galaxies.
+
+"It will be ideal for discovering the rarest, most massive galaxies at early times, which will tell us how the biggest galaxies and black holes in the early universe arose so quickly," Boylan-Kolchin said.
+
+The initial discovery and estimates of the six galaxy candidates' masses and redshifts were published in Nature in February by a team led by Swinburne University of Technology in Australia.
+
+This research is supported by the National Science Foundation and NASA.

@@ -1,0 +1,40 @@
+Hubble follows shadow play around planet-forming disk
+Date:
+May 4, 2023
+Source:
+NASA/Goddard Space Flight Center
+Summary:
+The young star TW Hydrae is playing 'shadow puppets' with scientists observing it with NASA's Hubble Space Telescope. In 2017, astronomers reported discovering a shadow sweeping across the face of a vast pancake-shaped gas-and-dust disk surrounding the red dwarf star. The shadow isn't from a planet, but from an inner disk slightly inclined relative to the much larger outer disk -- causing it to cast a shadow. One explanation is that an unseen planet's gravity is pulling dust and gas into the planet's inclined orbit. The young star TW Hydrae is playing 'shadow puppets' with scientists observing it with NASA's Hubble Space Telescope. Now, a second shadow -- playing a game of peek-a-boo -- has emerged in just a few years between observations stored in Hubble's MAST archive. This could be from yet another disk nestled inside the system. The two disks are likely evidence of a pair of planets under construction.
+
+The young star TW Hydrae is playing "shadow puppets" with scientists observing it with NASA's Hubble Space Telescope.
+
+In 2017, astronomers reported discovering a shadow sweeping across the face of a vast pancake-shaped gas-and-dust disk surrounding the red dwarf star. The shadow isn't from a planet, but from an inner disk slightly inclined relative to the much larger outer disk -- causing it to cast a shadow. One explanation is that an unseen planet's gravity is pulling dust and gas into the planet's inclined orbit.
+
+Now, a second shadow -- playing a game of peek-a-boo -- has emerged in just a few years between observations stored in Hubble's MAST archive. This could be from yet another disk nestled inside the system. The two disks are likely evidence of a pair of planets under construction.
+
+TW Hydrae is less than 10 million years old and resides about 200 light-years away. In its infancy, our solar system may have resembled the TW Hydrae system, some 4.6 billion years ago. Because the TW Hydrae system is tilted nearly face-on to our view from Earth, it is an optimum target for getting a bull's-eye-view of a planetary construction yard.
+
+The second shadow was discovered in observations obtained on June 6, 2021, as part of a multi-year program designed to track the shadows in circumstellar disks. John Debes of AURA/STScI for the European Space Agency at the Space Telescope Science Institute in Baltimore, Maryland, compared the TW Hydrae disk to Hubble observations made several years ago.
+
+"We found out that the shadow had done something completely different," said Debes, who is principal investigator and lead author of the study published in The Astrophysical Journal. "When I first looked at the data, I thought something had gone wrong with the observation because it wasn't what I was expecting. I was flummoxed at first, and all my collaborators were like: what is going on? We really had to scratch our heads and it took us a while to actually figure out an explanation."
+
+The best solution the team came up with is that there are two misaligned disks casting shadows. They were so close to each other in the earlier observation they were missed. Over time they've now separated and split into two shadows. "We've never really seen this before on a protoplanetary disk. It makes the system much more complex than we originally thought," he said.
+
+The simplest explanation is that the misaligned disks are likely caused by the gravitational pull of two planets in slightly different orbital planes. Hubble is piecing together a holistic view of the architecture of the system.
+
+The disks may be proxies for planets that are lapping each other as they whirl around the star. It's sort of like spinning two vinyl phonograph records at slightly different speeds. Sometimes labels will match up but then one gets ahead of the other.
+
+"It does suggest that the two planets have to be fairly close to each other. If one was moving much faster than the other, this would have been noticed in earlier observations. It's like two race cars that are close to each other, but one slowly overtakes and laps the other," said Debes.
+
+The suspected planets are located in a region roughly the distance of Jupiter from our Sun. And, the shadows complete one rotation around the star about every 15 years -- the orbital period that would be expected at that distance from the star.
+
+Also, these two inner disks are inclined about five to seven degrees relative to the plane of the outer disk. This is comparable to the range of orbital inclinations inside our solar system. "This is right in line with typical solar system style architecture," said Debes.
+
+The outer disk that the shadows are falling on may extend as far as several times the radius of our solar system's Kuiper belt. This larger disk has a curious gap at twice Pluto's average distance from the Sun. This might be evidence for a third planet in the system.
+
+Any inner planets would be difficult to detect because their light would be lost in the glare of the star. Also, dust in the system would dim their reflected light. ESA's Gaia space observatory may be able to measure a wobble in the star if Jupiter-mass planets are tugging on it, but this would take years given the long orbital periods.
+
+The TW Hydrae data are from Hubble's Space Telescope Imaging Spectrograph. The James Webb Space Telescope's infrared vision may also be able to show the shadows in more detail.
+
+The Hubble Space Telescope is a project of international cooperation between NASA and ESA. NASA's Goddard Space Flight Center in Greenbelt, Maryland, manages the telescope. The Space Telescope Science Institute (STScI) in Baltimore conducts Hubble science operations. STScI is operated for NASA by the Association of Universities for Research in Astronomy, in Washington, D.C.
+

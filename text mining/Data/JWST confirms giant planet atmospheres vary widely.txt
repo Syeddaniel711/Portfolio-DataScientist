@@ -1,0 +1,29 @@
+JWST confirms giant planet atmospheres vary widely
+Date:
+March 27, 2023
+Source:
+Cornell University
+Summary:
+Astronomers have found the atmospheric compositions of giant planets out in the galaxy do not fit our own solar system trend.
+
+Using NASA's James Webb Space Telescope (JWST), the researchers discovered that the atmosphere of exoplanet HD149026b, a 'hot Jupiter' orbiting a star comparable to our sun, is super-abundant in the heavier elements carbon and oxygen -- far above what scientists would expect for a planet of its mass.
+
+These findings, published in "High atmospheric metal enrichment for a Saturn-mass planet" in Nature on March 27, provide insight into planet formation.
+
+"It appears that every giant planet is different, and we're starting to see those differences thanks to JWST," said Jonathan Lunine, professor in the physical sciences at Cornell University and co-author of the study.
+
+The giant planets of our solar system exhibit a nearly perfect correlation between both overall composition and atmospheric composition and mass, said Jacob Bean, professor of astronomy and astrophysics at the University of Chicago and lead author of the paper. Extrasolar planets show a much greater diversity of overall compositions, but scientists didn't know how varied their atmospheric compositions are, until this analysis of HD149026b -- also known as Smertrios.
+
+Smertrios is super-enriched compared to its mass, Lunine said: "It's the mass of Saturn, but its atmosphere seems to have as much as 27 times the amount of heavy elements relative to its hydrogen and helium that we find in Saturn."
+
+This ratio, called metallicity -- even though it includes many elements that are not metals -- is useful for comparing a planet to its home star, or other planets in its system, Lunine said. Smertrios is the only planet known in this particular planetary system.
+
+Another key measurement is the ratio of carbon to oxygen in a planet's atmosphere, which reveals the "recipe" of original solids in a planetary system, Lunine said. For Smertrios, it's about 0.84 -- higher than in our solar system. In our sun, it's a bit more than one carbon for every two oxygen atoms (0.55).
+
+While an abundance of carbon might seem favorable for chances of life, a high carbon to oxygen ratio actually means less water on a planet or in a planetary system -- a problem for life as we know it.
+
+Smertrios is an interesting first case of atmospheric composition for this particular study, said Lunine, who has plans in place to observe five more giant exoplanets in the coming year using JWST. Many more observations are needed before astronomers can discover any patterns among giant planets or in systems with multiple giant planets or terrestrial planets to the compositional diversity astronomers are beginning to document.
+
+"The origin of this diversity is a fundamental mystery in our understanding of planet formation," Bean said. "Our hope is that further atmospheric observations of extrasolar planets with JWST will quantify this diversity better and yield constraints on more complex trends that might exist."
+
+The study was supported by NASA and the University of Chicago.

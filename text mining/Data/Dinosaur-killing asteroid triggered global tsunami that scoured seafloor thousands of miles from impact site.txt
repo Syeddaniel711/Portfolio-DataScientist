@@ -1,0 +1,75 @@
+Dinosaur-killing asteroid triggered global tsunami that scoured seafloor thousands of miles from impact site
+Date:
+October 4, 2022
+Source:
+University of Michigan
+Summary:
+The miles-wide asteroid that struck Earth 66 million years ago wiped out nearly all the dinosaurs and roughly three-quarters of the planet's plant and animal species.
+
+The miles-wide asteroid that struck Earth 66 million years ago wiped out nearly all the dinosaurs and roughly three-quarters of the planet's plant and animal species.
+
+It also triggered a monstrous tsunami with mile-high waves that scoured the ocean floor thousands of miles from the impact site on Mexico's Yucatan Peninsula, according to a new University of Michigan-led study.
+
+The study, scheduled for online publication Oct. 4 in the journal AGU Advances, presents the first global simulation of the Chicxulub impact tsunami to be published in a peer-reviewed scientific journal. In addition, U-M researchers reviewed the geological record at more than 100 sites worldwide and found evidence that supports their models' predictions about the tsunami's path and power.
+
+"This tsunami was strong enough to disturb and erode sediments in ocean basins halfway around the globe, leaving either a gap in the sedimentary records or a jumble of older sediments," said lead author Molly Range, who conducted the modeling study for a master's thesis under U-M physical oceanographer and study co-author Brian Arbic and U-M paleoceanographer and study co-author Ted Moore.
+
+The review of the geological record focused on "boundary sections," marine sediments deposited just before or just after the asteroid impact and the subsequent K-Pg mass extinction, which closed the Cretaceous Period.
+
+"The distribution of the erosion and hiatuses that we observed in the uppermost Cretaceous marine sediments are consistent with our model results, which gives us more confidence in the model predictions," said Range, who started the project as an undergraduate in Arbic's lab in the Department of Earth and Environmental Sciences.
+
+The study authors calculated that the initial energy in the impact tsunami was up to 30,000 times larger than the energy in the December 2004 Indian Ocean earthquake tsunami, which killed more than 230,000 people and is one of the largest tsunamis in the modern record.
+
+The team's simulations show that the impact tsunami radiated mainly to the east and northeast into the North Atlantic Ocean, and to the southwest through the Central American Seaway (which used to separate North America and South America) into the South Pacific Ocean.
+
+In those basins and in some adjacent areas, underwater current speeds likely exceeded 20 centimeters per second (0.4 mph), a velocity that is strong enough to erode fine-grained sediments on the seafloor.
+
+In contrast, the South Atlantic, the North Pacific, the Indian Ocean and the region that is today the Mediterranean were largely shielded from the strongest effects of the tsunami, according to the team's simulation. In those places, the modeled current speeds were likely less than the 20 cm/sec threshold.
+
+For the review of the geological record, U-M's Moore analyzed published records of 165 marine boundary sections and was able to obtain usable information from 120 of them. Most of the sediments came from cores collected during scientific ocean-drilling projects.
+
+The North Atlantic and South Pacific had the fewest sites with complete, uninterrupted K-Pg boundary sediments. In contrast, the largest number of complete K-Pg boundary sections were found in the South Atlantic, the North Pacific, the Indian Ocean and the Mediterranean.
+
+"We found corroboration in the geological record for the predicted areas of maximal impact in the open ocean," said Arbic, professor of earth and environmental sciences who oversaw the project. "The geological evidence definitely strengthens the paper."
+
+Of special significance, according to the authors, are outcrops of the K-Pg boundary on the eastern shores of New Zealand's north and south islands, which are more than 12,000 kilometers (7,500 miles) from the Yucatan impact site.
+
+The heavily disturbed and incomplete New Zealand sediments, called olistostromal deposits, were originally thought to be the result of local tectonic activity. But given the age of the deposits and their location directly in the modeled pathway of the Chicxulub impact tsunami, the U-M-led research team suspects a different origin.
+
+"We feel these deposits are recording the effects of the impact tsunami, and this is perhaps the most telling confirmation of the global significance of this event," Range said.
+
+The modeling portion of the study used a two-stage strategy. First, a large computer program called a hydrocode simulated the chaotic first 10 minutes of the event, which included the impact, crater formation and initiation of the tsunami. That work was conducted by co-author Brandon Johnson of Purdue University.
+
+Based on the findings of previous studies, the researchers modeled an asteroid that was 14 kilometers (8.7 miles) in diameter, moving at 12 kilometers per second (27,000 mph). It struck granitic crust overlain by thick sediments and shallow ocean waters, blasting a roughly 100-kilometer-wide (62-mile-wide) crater and ejecting dense clouds of soot and dust into the atmosphere.
+
+Two and a half minutes after the asteroid struck, a curtain of ejected material pushed a wall of water outward from the impact site, briefly forming a 4.5-kilometer-high (2.8-mile-high) wave that subsided as the ejecta fell back to Earth.
+
+Ten minutes after the projectile hit the Yucatan, and 220 kilometers (137 miles) from the point of impact, a 1.5-kilometer-high (0.93-mile-high) tsunami wave -- ring-shaped and outward-propagating -- began sweeping across the ocean in all directions, according to the U-M simulation.
+
+At the 10-minute mark, the results of Johnson's iSALE hydrocode simulations were entered into two tsunami-propagation models, MOM6 and MOST, to track the giant waves across the ocean. MOM6 has been used to model tsunamis in the deep ocean, and NOAA uses the MOST model operationally for tsunami forecasts at its Tsunami Warning Centers.
+
+"The big result here is that two global models with differing formulations gave almost identical results, and the geologic data on complete and incomplete sections are consistent with those results," said Moore, professor emeritus of earth and environmental sciences. "The models and the verification data match nicely."
+
+According to the team's simulation:
+
+One hour after impact, the tsunami had spread outside the Gulf of Mexico and into the North Atlantic.
+
+Four hours after impact, the waves had passed through the Central American Seaway and into the Pacific.
+
+Twenty-four hours after impact, the waves had crossed most of the Pacific from the east and most of the Atlantic from the west and entered the Indian Ocean from both sides.
+
+By 48 hours after impact, significant tsunami waves had reached most of the world's coastlines.
+
+For the current study, the researchers did not attempt to estimate the extent of coastal flooding caused by the tsunami.
+
+However, their models indicate that open-ocean wave heights in the Gulf of Mexico would have exceeded 100 meters (328 feet), with wave heights of more than 10 meters (32.8 feet) as the tsunami approached North Atlantic coastal regions and parts of South America's Pacific coast.
+
+As the tsunami neared those shorelines and encountered shallow bottom waters, wave heights would have increased dramatically through a process called shoaling. Current speeds would have exceeded the 20 centimeters per second threshold for most coastal areas worldwide.
+
+"Depending on the geometries of the coast and the advancing waves, most coastal regions would be inundated and eroded to some extent," according to the study authors. "Any historically documented tsunamis pale in comparison with such global impact."
+
+A follow-up study is planned to model the extent of coastal inundation worldwide, Arbic said. That study will be led by Vasily Titov of the National Oceanic and Atmospheric Administration's Pacific Marine Environmental Lab, who is a co-author of the AGU Advances paper.
+
+In addition to Range, Arbic, Moore, Johnson and Titov, the study authors are Alistair Adcroft of Princeton University, Joseph Ansong of the University of Ghana, Christopher Hollis of Victoria University of Wellington, Christopher Scotese of the PALEOMAP Project, and He Wang of NOAA's Geophysical Fluid Dynamics Laboratory and the University Corporation for Atmospheric Research.
+
+Funding was provided by the National Science Foundation and the University of Michigan Associate Professor Support Fund, which is supported by the Margaret and Herman Sokol Faculty Awards. The MOM6 simulations were carried out on the Flux supercomputer provided by the University of Michigan Advanced Research Computing Technical Services.
